@@ -1,0 +1,5 @@
+Average FPS over 60s: 55.14
+Average frame time: 18.13 ms
+
+Average FPS over 60s: 57.19
+Average frame time: 17.48 ms
